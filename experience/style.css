@@ -166,81 +166,108 @@ header .navbar ul li a:hover{
   font-weight: 600;
 }
 
+.experience {
+  margin-top: 5rem;
+}
+.experience .quote {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
 .experience .timeline {
   position: relative;
   max-width: 1200px;
   margin: 2rem auto;
-  display: flex; /* Display timeline items horizontally */
-  justify-content: space-between; /* Add space between timeline items */
-  align-items: center; /* Center items vertically */
 }
-
 .experience .timeline::after {
   content: '';
   position: absolute;
-  height: 6px; /* Change width to height for a horizontal line */
+  width: 6px;
   background: #020133;
-  left: 0;
-  right: 0;
-  margin-top: -3px; /* Adjust margin for the horizontal line */
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
   z-index: -2;
 }
-
 .experience .container {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 30%; /* Adjust the width of the timeline items */
-  text-align: center; /* Center content within each timeline item */
+  width: 50%;
 }
-
-.experience .container::after {
-  /* Remove or adjust the circle on the timeline */
-  content: "";
+/*circles on timeline*/
+.experience .container::after {    
+  content: "\f0b1";
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: rgb(255, 255, 255);
+  border: 4px solid #f68c09;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 100;
+  font-size: 1.89rem;
+  text-align: center;
+  font-weight: 600;
+  color:#02094b;
+  font-family: 'Font Awesome\ 5 Free';
 }
-
 .experience .left {
-  /* Adjust positioning for the left side of the timeline */
-  position: relative;
   left: 0;
 }
-
 .experience .right {
-  /* Adjust positioning for the right side of the timeline */
-  position: relative;
-  left: 0;
+  left: 50%;
 }
-
-.experience .left::before,
+/* arrows pointing right */
+.experience .left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid #f68c09;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #f68c09;
+}
+/* arrows pointing left  */
 .experience .right::before {
-  /* Remove the arrows pointing left and right */
-  content: none;
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid #f68c09;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #f68c09 transparent transparent;
 }
-
+.experience .right::after {
+  left: -16px;
+}
 .experience .content {
   background-color: #f68c09;
   position: relative;
   border-radius: 6px;
-  width: 100%; /* Make content fill the entire container */
 }
-
-.experience .content .tag {
+.experience .content .tag{
   font-size: 1.3rem;
   padding-top: 1.5rem;
   padding-left: 1.5rem;
 }
-
-.experience .content .desc {
+.experience .content .desc{
   margin-left: 1.5rem;
   padding-bottom: 1rem;
 }
-
-.experience .content .desc h3 {
+.experience .content .desc h3{
   font-size: 1.5rem;
   font-weight: 600;
 }
-
-.experience .content .desc p {
+.experience .content .desc p{
   font-size: 1.2rem;
 }
 
