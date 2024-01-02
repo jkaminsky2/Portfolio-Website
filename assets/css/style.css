@@ -760,18 +760,9 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
-.experience {
-  margin-top: 5rem;
-}
-
-.experience .quote {
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: 600;
-}
 
 .experience {
-  margin-top: 5rem;
+  margin-top: 15rem;
 }
 .experience .quote {
   text-align: center;
