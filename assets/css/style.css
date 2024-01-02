@@ -1114,7 +1114,7 @@ form .button-area {
 }
 .footer .box-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 .footer .box-container .box {
