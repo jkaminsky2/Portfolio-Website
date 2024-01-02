@@ -1126,7 +1126,7 @@ form .button-area {
   font-size: 1.5rem;
   color: #ccc;
   padding: 0.7rem 0;
-  text-align: center; /* Left-align smaller text */
+  text-align: left; /* Left-align smaller text */
   text-transform: none;
 }
 
