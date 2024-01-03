@@ -1167,6 +1167,11 @@ form .button-area {
   border: none;
 }
 
+.footer .box-container .box .share a span {
+  display: inline-block;
+  margin-top: 1rem; /* Adjusted margin-top to push content down by one pixel */
+}
+
 .footer .box-container .box .share a:hover {
   background: transparent;
   transform: scale(0.98);
