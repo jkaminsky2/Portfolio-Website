@@ -1174,7 +1174,7 @@ form .button-area {
 
 .footer .box-container .box .share a span {
   display: inline-block;
-  vertical-align: middle; /* Adjusted margin-top to push content down by one pixel */
+  margin-top: 22px
 }
 
 .footer .box-container .box .share a:hover {
