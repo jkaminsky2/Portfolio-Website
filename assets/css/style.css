@@ -1123,10 +1123,10 @@ form .button-area {
 }
 
 .footer .box-container .box p {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #ccc;
   padding: 0.7rem 0;
-  text-align: left; /* Left-align smaller text */
+  text-align: center; /* Left-align smaller text */
   text-transform: none;
 }
 
@@ -1151,6 +1151,7 @@ form .button-area {
   display: flex;
   flex-wrap: wrap;
   padding: 1rem 0;
+  justify-content: center;
 }
 
 .footer .box-container .box .share a {
