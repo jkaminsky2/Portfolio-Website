@@ -1155,14 +1155,12 @@ form .button-area {
 .footer .box-container .box .share {
   display: flex;
   flex-wrap: wrap;
-  padding: 1rem 0;
   justify-content: center;
 }
 
 .footer .box-container .box .share a {
   height: 44px; /* Adjusted height for larger circle */
   width: 44px; /* Adjusted width for larger circle */
-  padding: 1rem; /* Adjusted padding for spacing within the circle */
   text-align: center;
   border-radius: 100%; /* Ensure a perfect circle with border-radius */
   font-size: 2rem; /* Adjusted font size */
