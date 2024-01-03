@@ -42,7 +42,7 @@
   {
     "name": "NBA 2K Rating Predictor",
     "desc": "Reverse engineered the NBA 2K rating system to hypothesis test if populairty factors into ratings.",
-    "image": "instagrammern",
+    "image": "assets/images/projects/2k.jpeg",
     "category": "hypothesis",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
