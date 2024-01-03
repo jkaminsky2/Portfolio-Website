@@ -9,46 +9,64 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "Wordle Guesser",
+    "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
     "image": "flipkartmern",
-    "category": "mern",
+    "category": "coding",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
-    "links": {
-      "view": "https://resumegenx.netlify.app/"
-    }
-  },
-  {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Analysis Workbench",
+    "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
     "image": "reactprojects",
-    "category": "mern",
+    "category": "coding",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "Image Generator",
+    "desc": "Given data regarding individuals, this code generates accurate images for each entry in a time-efficient manner.",
+    "image": "reactprojects",
+    "category": "coding",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/"
+    }
+  },
+  {
+    "name": "Food.com Recipe Data Hypothesis Testing",
+    "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
+    "image": "resumegen",
+    "category": "hypothesis",
+    "links": {
+      "view": "https://resumegenx.netlify.app/"
+    }
+  },
+  {
+    "name": "Python Personalized Stock Tracker",
+    "desc": "Analyzes the stock market, common stock movements, and related articles and emails portfolio summaries and potential stock movements.",
     "image": "flipkartphp",
-    "category": "lamp",
+    "category": "coding",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "Limesurvey-SuAVE Documentation",
+    "desc": "Created a step-by-step guide on how to use Limesurvey and SuAVE side-by-side for beginners to be able to curate survey data and visualize it.",
+    "image": "reactprojects",
+    "category": "documentation",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/"
+    }
+  },
+  {
+    "name": "4 Number Guessing Game",
+    "desc": "Optimally solves the 4-number guessing game.",
     "image": "jspro",
-    "category": "basicweb",
+    "category": "coding",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects"
     }
