@@ -1156,7 +1156,7 @@ form .button-area {
 .footer .box-container .box .share a {
   height: 6rem; /* Adjusted height for larger circle */
   width: 6rem; /* Adjusted width for larger circle */
-  padding: 10rem; /* Adjusted padding for spacing within the circle */
+  padding: .33rem; /* Adjusted padding for spacing within the circle */
   text-align: center;
   border-radius: 50%; /* Ensure a perfect circle with border-radius */
   font-size: 3rem; /* Adjusted font size */
