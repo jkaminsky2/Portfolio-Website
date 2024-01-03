@@ -1169,7 +1169,7 @@ form .button-area {
 
 .footer .box-container .box .share a span {
   display: inline-block;
-  margin-top: 1rem; /* Adjusted margin-top to push content down by one pixel */
+  margin-top: 1px; /* Adjusted margin-top to push content down by one pixel */
 }
 
 .footer .box-container .box .share a:hover {
