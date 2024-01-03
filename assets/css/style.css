@@ -1169,6 +1169,7 @@ form .button-area {
   color: #00d9ff;
   background-color: #09011b;
   border: none;
+  line-height: 44px; /* Center content vertically */
 }
 
 .footer .box-container .box .share a span {
