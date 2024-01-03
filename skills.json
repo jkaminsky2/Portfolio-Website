@@ -1,3 +1,6 @@
+R, Javascript, Excel, Git, Salesforce, PowerBI, ArcGIS, Google Earth Engine, Qualtrics, Limesurvey, 
+         SuAVE, Data Modeling, Network Analysis, Web Scraping, Python Data Cleaning and Visualization
+
 [
     {
         "name": "Python",
@@ -7,6 +10,14 @@
         "name": "PostgreSQL",
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "R",
+        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project"
+    },   
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -18,10 +29,6 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
         "name": "AWS",
