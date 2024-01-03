@@ -5,8 +5,7 @@
     "image": "./assets/images/projects/2k.jpeg",
     "category": "hypothesis",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://instagramernstack.herokuapp.com/"
     }
   },
   {
@@ -15,8 +14,7 @@
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://flipkartwebs.herokuapp.com/"
     }
   },
   {
@@ -25,8 +23,7 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://resumegenx.netlify.app/"
     }
   },
   {
@@ -35,8 +32,7 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://reactjsprojects.herokuapp.com/"
     }
   },
   {
@@ -45,8 +41,7 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
   {
@@ -55,8 +50,7 @@
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://jigar-sable.github.io/JavaScript-Projects"
     }
   }
 ]
