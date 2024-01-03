@@ -5,16 +5,7 @@
     "image": "2k",
     "category": "hypothesis",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/"
-    }
-  },
-  {
-    "name": "Wordle Guesser",
-    "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
-    "image": "flipkartmern",
-    "category": "coding",
-    "links": {
-      "view": "https://flipkartwebs.herokuapp.com/"
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/nba_2K_ratings_reverse_engineering.ipynb"
     }
   },
   {
@@ -32,7 +23,16 @@
     "image": "reactprojects",
     "category": "coding",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/"
+      "view": "https://suave-ucsd.github.io/SuAVE-Documentation/Bibliographic_Network_Images.html"
+    }
+  },
+  {
+    "name": "Wordle Guesser",
+    "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
+    "image": "flipkartmern",
+    "category": "coding",
+    "links": {
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/wordle_guesser.md"
     }
   },
   {
@@ -41,16 +41,25 @@
     "image": "flipkartphp",
     "category": "coding",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/stock_tracker.md"
+    }
+  },
+  {
+    "name": "General Documentation",
+    "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
+    "image": "reactprojects",
+    "category": "documentation",
+    "links": {
+      "view": "https://suave-ucsd.github.io/SuAVE-Documentation/getting_started.html"
     }
   },
   {
     "name": "Limesurvey-SuAVE Documentation",
-    "desc": "Created a step-by-step guide on how to use Limesurvey and SuAVE side-by-side for beginners to be able to curate survey data and visualize it.",
+    "desc": "Created a step-by-step guide for professors and UCSD students to be able to use Limesurvey and SuAVE side-by-side to curate survey data and visualize it.",
     "image": "reactprojects",
     "category": "documentation",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/"
+      "view": "https://jkaminsky2.github.io/limesurvey-ucsd/"
     }
   },
     {
@@ -59,16 +68,16 @@
     "image": "resumegen",
     "category": "hypothesis",
     "links": {
-      "view": "https://resumegenx.netlify.app/"
+      "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
     }
   },
   {
-    "name": "4 Number Guessing Game",
+    "name": "4 Number Guessing Game Solver",
     "desc": "Optimally solves the 4-number guessing game.",
     "image": "jspro",
     "category": "coding",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects"
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/4_number_guesser.md"
     }
   }
 ]
