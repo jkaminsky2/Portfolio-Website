@@ -72,12 +72,12 @@
         "icon": "https://img.icons8.com/color/48/mind-map.png"
     },
     {
-        "name": "Web Scraping",
-        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
-    },
-    {
         "name": "Data Modeling",
         "icon": "https://img.icons8.com/arcade/64/serial-tasks.png" 
+    },
+    {
+        "name": "Web Scraping",
+        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
     },
     {
         "name": "Data Visualization",
