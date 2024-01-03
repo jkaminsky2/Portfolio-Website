@@ -57,7 +57,7 @@
     },
     {
         "name": "Limsurvey",
-        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
+        "icon": "https://img.icons8.com/color/48/incoming-data.png"
     },
     {
         "name": "SuAVE",
@@ -65,11 +65,11 @@
     },
     {
         "name": "CorpusDB",
-        "icon": "https://img.icons8.com/ios-filled/50/big-data.png"
+        "icon": "https://img.icons8.com/office/16/database.png"
     },
     {
         "name": "Network Analysis",
-        "icon": "https://img.icons8.com/fluency-systems-filled/48/centralized-network.png" 
+        "icon": "https://img.icons8.com/color/48/mind-map.png"
     },
     {
         "name": "Data Modeling",
@@ -77,10 +77,10 @@
     },
     {
         "name": "Web Scraping",
-        "icon": "https://img.icons8.com/ios-filled/50/google-code.png"
+        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
     },
     {
-        "name": "Python Data Cleaning and Visualization",
-        "icon": "https://img.icons8.com/dotty/80/total-sales-1.png"
+        "name": "Data Cleaning and Visualization",
+        "icon": "https://img.icons8.com/nolan/64/total-sales-1.png"
     }
 ]
