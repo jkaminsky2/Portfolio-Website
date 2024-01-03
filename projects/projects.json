@@ -36,7 +36,7 @@
     }
   },
   {
-    "name": "Food.com Recipe Data Hypothesis Testing",
+    "name": "Food.com Recipe Hypothesis Testing",
     "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
     "image": "resumegen",
     "category": "hypothesis",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "name": "Python Personalized Stock Tracker",
+    "name": "Personalized Stock Tracker",
     "desc": "Analyzes the stock market, common stock movements, and related articles and emails portfolio summaries and potential stock movements.",
     "image": "flipkartphp",
     "category": "coding",
