@@ -36,15 +36,6 @@
     }
   },
   {
-    "name": "Food.com Recipe Hypothesis Testing",
-    "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
-    "image": "resumegen",
-    "category": "hypothesis",
-    "links": {
-      "view": "https://resumegenx.netlify.app/"
-    }
-  },
-  {
     "name": "Personalized Stock Tracker",
     "desc": "Analyzes the stock market, common stock movements, and related articles and emails portfolio summaries and potential stock movements.",
     "image": "flipkartphp",
@@ -60,6 +51,15 @@
     "category": "documentation",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/"
+    }
+  },
+    {
+    "name": "Food.com Recipe Hypothesis Testing",
+    "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
+    "image": "resumegen",
+    "category": "hypothesis",
+    "links": {
+      "view": "https://resumegenx.netlify.app/"
     }
   },
   {
