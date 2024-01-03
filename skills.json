@@ -63,23 +63,23 @@
         "name": "SuAVE",
         "icon": "https://img.icons8.com/color/48/heat-map.png"
     },
-         {
+    {
         "name": "CorpusDB",
         "icon": "https://img.icons8.com/ios-filled/50/big-data.png"
     },
-         {
+    {
         "name": "Network Analysis",
         "icon": "https://img.icons8.com/fluency-systems-filled/48/centralized-network.png" 
     },
-         {
+    {
         "name": "Data Modeling",
         "icon": "https://img.icons8.com/ultraviolet/40/static-view-level2.png" 
     },
-         {
+    {
         "name": "Web Scraping",
         "icon": "https://img.icons8.com/ios-filled/50/google-code.png"
     },
-         {
+    {
         "name": "Python Data Cleaning and Visualization",
         "icon": "https://img.icons8.com/dotty/80/total-sales-1.png"
     }
