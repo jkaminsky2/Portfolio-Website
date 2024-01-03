@@ -1,6 +1,3 @@
-R, Javascript, Excel, Git, Salesforce, PowerBI, ArcGIS, Google Earth Engine, Qualtrics, Limesurvey, 
-         SuAVE, Data Modeling, Network Analysis, Web Scraping, Python Data Cleaning and Visualization
-
 [
     {
         "name": "Python",
@@ -16,42 +13,74 @@ R, Javascript, Excel, Git, Salesforce, PowerBI, ArcGIS, Google Earth Engine, Qua
     },
     {
         "name": "R",
-        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project"
-    },   
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "R",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "icon": "https://img.icons8.com/fluency/48/r-project.png"
     },
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "Excel",
+        "icon": "https://img.icons8.com/color/48/ms-excel.png"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "Salesforce",
+        "icon": "https://img.icons8.com/color/48/salesforce.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/power-bi.png"
+    },
+    {
+        "name": "Qualtrics",
+        "icon": "https://img.icons8.com/color/48/survey.png"
+    },
+    {
+        "name": "ArcGIS",
+        "icon": "https://img.icons8.com/dusk/64/world-map.png"
+    },
+    {
+        "name": "Google Earth Engine",
+        "icon": "https://img.icons8.com/color/48/google-earth--v1.png"
+    },
+    {
+        "name": "Limsurvey",
+        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
+    },
+    {
+        "name": "SuAVE",
+        "icon": "https://img.icons8.com/color/48/heat-map.png"
+    },
+         {
+        "name": "CorpusDB",
+        "icon": "https://img.icons8.com/ios-filled/50/big-data.png"
+    },
+         {
+        "name": "Network Analysis",
+        "icon": "https://img.icons8.com/fluency-systems-filled/48/centralized-network.png" 
+    },
+         {
+        "name": "Data Modeling",
+        "icon": "https://img.icons8.com/ultraviolet/40/static-view-level2.png" 
+    },
+         {
+        "name": "Web Scraping",
+        "icon": "https://img.icons8.com/ios-filled/50/google-code.png"
+    },
+         {
+        "name": "Python Data Cleaning and Visualization",
+        "icon": "https://img.icons8.com/dotty/80/total-sales-1.png"
     }
 ]
