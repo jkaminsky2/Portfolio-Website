@@ -68,12 +68,12 @@
         "icon": "https://img.icons8.com/dusk/64/database.png"
     },
     {
-        "name": "Network Analysis",
-        "icon": "https://img.icons8.com/color/48/mind-map.png"
-    },
-    {
         "name": "Data Modeling",
         "icon": "https://img.icons8.com/arcade/64/serial-tasks.png" 
+    },
+    {
+        "name": "Network Analysis",
+        "icon": "https://img.icons8.com/color/48/mind-map.png"
     },
     {
         "name": "Web Scraping",
