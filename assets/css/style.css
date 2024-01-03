@@ -1194,6 +1194,19 @@ form .button-area {
   animation: pound 0.35s infinite alternate;
 }
 
+.footer .box-container .box2 {
+  flex: 1 1 25rem;
+  margin: 2.5rem;
+  text-align: center; /* Center text in box2 */
+}
+
+.footer .box-container .box2 h3 {
+  font-size: 2.5rem;
+  color: #fff;
+  padding-bottom: 1rem;
+  font-weight: normal;
+}
+
 @-webkit-keyframes pound {
   to {
     transform: scale(1.1);
