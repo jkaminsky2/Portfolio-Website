@@ -54,7 +54,7 @@
     }
   },
   {
-    "name": "Limesurvey-SuAVE Documentation",
+    "name": "Limesurvey-SuAVE Docs",
     "desc": "Created a step-by-step guide for professors and UCSD students to be able to use Limesurvey and SuAVE side-by-side to curate survey data and visualize it.",
     "image": "reactprojects",
     "category": "documentation",
@@ -63,7 +63,7 @@
     }
   },
     {
-    "name": "Food.com Recipe Hypothesis Testing",
+    "name": "Food.com Hypothesis Testing",
     "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
     "image": "resumegen",
     "category": "hypothesis",
