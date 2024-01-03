@@ -24,6 +24,14 @@
         "icon": "https://img.icons8.com/color/48/ms-excel.png"
     },
     {
+        "name": "Salesforce",
+        "icon": "https://img.icons8.com/color/48/salesforce.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/power-bi.png"
+    },
+    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
@@ -34,14 +42,6 @@
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "Salesforce",
-        "icon": "https://img.icons8.com/color/48/salesforce.png"
-    },
-    {
-        "name": "Power BI",
-        "icon": "https://img.icons8.com/color/48/power-bi.png"
     },
     {
         "name": "Qualtrics",
