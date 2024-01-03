@@ -1159,7 +1159,7 @@ form .button-area {
   padding: 1.5rem; /* Adjusted padding for spacing within the circle */
   text-align: center;
   border-radius: 50%; /* Ensure a perfect circle with border-radius */
-  font-size: 4rem; /* Adjusted font size */
+  font-size: 3rem; /* Adjusted font size */
   margin-right: 1rem;
   transition: 0.2s;
   background: rgb(230, 230, 230);
