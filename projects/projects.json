@@ -1,14 +1,5 @@
 [
   {
-    "name": "NBA 2K Rating Predictor",
-    "desc": "Reverse engineered the NBA 2K rating system to hypothesis test if populairty factors into ratings.",
-    "image": "2k",
-    "category": "hypothesis",
-    "links": {
-      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/nba_2K_ratings_reverse_engineering.ipynb"
-    }
-  },
-  {
     "name": "Analysis Workbench",
     "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
     "image": "suave_server",
@@ -27,12 +18,21 @@
     }
   },
   {
-    "name": "Wordle Guesser",
-    "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
-    "image": "wordle",
+    "name": "ArcGIS Tree Data Mapping",
+    "desc": "Gathered, cleaned, and formatted tree data to analyze it and work towards a project that aims to predict tree lifespans and coverage in the San Diego area.",
+    "image": "tree_data",
     "category": "coding",
     "links": {
-      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/wordle_guesser.md"
+      "view": "https://ucsdonline.maps.arcgis.com/apps/mapviewer/index.html?webmap=1f928045e7834c0d9cd51f95cdfbd82d"
+    }
+  },
+  {
+    "name": "NBA 2K Rating Predictor",
+    "desc": "Reverse engineered the NBA 2K rating system to hypothesis test if populairty factors into ratings.",
+    "image": "2k",
+    "category": "hypothesis",
+    "links": {
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/nba_2K_ratings_reverse_engineering.ipynb"
     }
   },
   {
@@ -45,30 +45,30 @@
     }
   },
   {
-    "name": "General Documentation",
-    "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
-    "image": "suave_docs",
-    "category": "documentation",
+    "name": "Wordle Guesser",
+    "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
+    "image": "wordle",
+    "category": "coding",
     "links": {
-      "view": "https://suave-ucsd.github.io/SuAVE-Documentation/getting_started.html"
+      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/wordle_guesser.md"
     }
   },
   {
-    "name": "ArcGIS Tree Data Mapping",
-    "desc": "Gathered, cleaned, and formatted tree data to analyze it and work towards a project that aims to predict tree lifespans and coverage in the San Diego area.",
-    "image": "tree_data",
-    "category": "coding",
-    "links": {
-      "view": "https://ucsdonline.maps.arcgis.com/apps/mapviewer/index.html?webmap=1f928045e7834c0d9cd51f95cdfbd82d"
-    }
-  },
-    {
     "name": "Food.com Hypothesis Testing",
     "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
     "image": "recipes",
     "category": "hypothesis",
     "links": {
       "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
+    }
+  },
+  {
+    "name": "General Documentation",
+    "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
+    "image": "suave_docs",
+    "category": "documentation",
+    "links": {
+      "view": "https://suave-ucsd.github.io/SuAVE-Documentation/getting_started.html"
     }
   },
   {
