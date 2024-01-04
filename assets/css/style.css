@@ -689,7 +689,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #f68c09;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
@@ -1214,7 +1214,7 @@ form .button-area {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #f68c09;
   color: rgb(13, 0, 44);
   border-radius: 50%;
   transition: 1s linear;
