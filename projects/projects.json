@@ -54,12 +54,12 @@
     }
   },
   {
-    "name": "Limesurvey-SuAVE Docs",
-    "desc": "Created a step-by-step guide for professors and UCSD students to be able to use Limesurvey and SuAVE side-by-side to curate survey data and visualize it.",
-    "image": "limesurvey",
-    "category": "documentation",
+    "name": "ArcGIS Tree Data Mapping",
+    "desc": "Gathered, cleaned, and formatted tree data to analyze it and work towards a project that aims to predict tree lifespans and coverage in the San Diego area.",
+    "image": "tree_data",
+    "category": "coding",
     "links": {
-      "view": "https://suave-ucsd.github.io/limesurvey_documentation/"
+      "view": "https://ucsdonline.maps.arcgis.com/apps/mapviewer/index.html?webmap=1f928045e7834c0d9cd51f95cdfbd82d"
     }
   },
     {
