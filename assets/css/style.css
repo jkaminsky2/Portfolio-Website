@@ -719,7 +719,7 @@ header .navbar ul li a:hover {
   font-size: 1.5rem;
   color: #fff;
   background: rgb(12, 12, 12);
-  margin-right: 2rem;
+  margin-right: 0rem;
 }
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
