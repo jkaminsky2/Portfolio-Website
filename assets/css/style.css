@@ -642,7 +642,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: #e5ecfb;
 }
 .work h2 {
   color: #fff;
@@ -760,9 +760,6 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
-.experience {
-  background: #e5ecfb;
-}
 .experience .timeline {
   position: relative;
   max-width: 1200px;
