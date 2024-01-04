@@ -97,7 +97,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #6da0f7;
 }
 header .navbar ul {
   list-style: none;
@@ -118,8 +118,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #6da0f7;
+  border-bottom: 0.2rem solid #6da0f7;
   padding: 0.5rem 0;
 }
 /* navbar ends */
