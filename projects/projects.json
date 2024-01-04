@@ -11,7 +11,7 @@
   {
     "name": "Analysis Workbench",
     "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
-    "image": "contact1",
+    "image": "suave_server",
     "category": "coding",
     "links": {
       "view": "https://jupyter-suave.nrp-nautilus.io/"
@@ -20,7 +20,7 @@
   {
     "name": "Image Generator",
     "desc": "Given data regarding individuals, this code generates accurate images for each entry in a time-efficient manner.",
-    "image": "profile",
+    "image": "image_gen",
     "category": "coding",
     "links": {
       "view": "https://suave-ucsd.github.io/SuAVE-Documentation/Bibliographic_Network_Images.html"
@@ -29,7 +29,7 @@
   {
     "name": "Wordle Guesser",
     "desc": "Optimally solves the daily Wordle using word frequency analysis, web scraping, and Python coding techniques.",
-    "image": "favhand",
+    "image": "wordle",
     "category": "coding",
     "links": {
       "view": "https://github.com/jkaminsky2/personal_projects/blob/main/wordle_guesser.md"
@@ -38,7 +38,7 @@
   {
     "name": "Personalized Stock Tracker",
     "desc": "Analyzes the stock market, common stock movements, and related articles and emails portfolio summaries and potential stock movements.",
-    "image": "cmsoon",
+    "image": "stock_tracker",
     "category": "coding",
     "links": {
       "view": "https://github.com/jkaminsky2/personal_projects/blob/main/stock_tracker.md"
@@ -47,7 +47,7 @@
   {
     "name": "General Documentation",
     "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
-    "image": "hero",
+    "image": "suave_docs",
     "category": "documentation",
     "links": {
       "view": "https://suave-ucsd.github.io/SuAVE-Documentation/getting_started.html"
@@ -56,16 +56,16 @@
   {
     "name": "Limesurvey-SuAVE Docs",
     "desc": "Created a step-by-step guide for professors and UCSD students to be able to use Limesurvey and SuAVE side-by-side to curate survey data and visualize it.",
-    "image": "hero1",
+    "image": "limesurvey",
     "category": "documentation",
     "links": {
-      "view": "https://jkaminsky2.github.io/limesurvey-ucsd/"
+      "view": "https://suave-ucsd.github.io/limesurvey_documentation/"
     }
   },
     {
     "name": "Food.com Hypothesis Testing",
     "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
-    "image": "profile2",
+    "image": "recipes",
     "category": "hypothesis",
     "links": {
       "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
@@ -74,7 +74,7 @@
   {
     "name": "4 Number Guessing Game Solver",
     "desc": "Optimally solves the 4-number guessing game.",
-    "image": "profile",
+    "image": "4_number",
     "category": "coding",
     "links": {
       "view": "https://github.com/jkaminsky2/personal_projects/blob/main/4_number_guesser.md"
