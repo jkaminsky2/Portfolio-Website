@@ -97,7 +97,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #6da0f7;
+  color: #0685da;
 }
 header .navbar ul {
   list-style: none;
@@ -118,8 +118,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #6da0f7;
-  border-bottom: 0.2rem solid #6da0f7;
+  color: #0685da;
+  border-bottom: 0.2rem solid #0685da;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -168,7 +168,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #6da0f7;
+    border-bottom: 0.5rem solid #0685da;
   }
   .fa-times {
     transform: rotate(180deg);
@@ -240,7 +240,7 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(148, 8, 8);
+  color: #002057;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -267,7 +267,7 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .home .btn:hover {
-  background: #1a047e;
+  background: #0685da;
 }
 .home .btn:hover i {
   transform: translateX(5px);
