@@ -32,12 +32,13 @@ html {
 }
 html::-webkit-scrollbar {
   width: 0.8rem;
-}
 html::-webkit-scrollbar-track {
-  background: rgb(235, 202, 245);
+  background: rgba(255, 255, 255, 0.5); /* Gray background for scrollbar track with 50% transparency */
 }
+
 html::-webkit-scrollbar-thumb {
-  background: #420177;
+  background: rgba(128, 128, 128, 0.5);
+  border-radius: 6px;
 }
 
 /* pre loader start */
