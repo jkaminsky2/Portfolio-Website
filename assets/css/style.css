@@ -1154,7 +1154,7 @@ form .button-area {
   color: #00d9ff;
   background: #09011b;
   border: none;
-  border-radius: 100%;
+  border-radius: 75%;
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
