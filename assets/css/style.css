@@ -245,6 +245,7 @@ header .navbar ul li a:hover {
 }
 .home .btn {
   margin-top: 1rem;
+  position: absolute;
   line-height: 0;
   padding: 1.6rem 3rem;
   border-radius: 3.9em;
@@ -324,11 +325,11 @@ header .navbar ul li a:hover {
 
 /* hero media queries starts*/
 @media (max-width: 450px) {
-  .home .btn {
-    margin: 4rem 0;
-  }
   .socials {
     margin-top: 12rem;
+  }
+  .home .btn {
+    margin: 4rem 0;
   }
   .home .image img {
     margin-top: -12rem;
