@@ -1137,23 +1137,27 @@ form .button-area {
   flex-wrap: wrap;
   padding: 1rem 0;
 }
+
 .footer .box-container .box .share a {
+  font-size: 2rem;
+  line-height: 44px;
   height: 44px;
   width: 44px;
   padding: 1rem;
   margin-bottom: 14px;
   text-align: center;
-  border-radius: 5rem;
-  font-size: 1.7rem;
-  margin-right: 1rem;
+  margin-right: 0rem;
   transition: 0.2s;
   color: #00d9ff;
   background: #09011b;
   border: none;
+  border-radius: 100%;
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
+.footer .box-container .box .share a:active,
+.footer .box-container .box .share a:focus,
 .footer .box-container .box .share a:hover {
   color: #fff;
   background-color: #0685da;
