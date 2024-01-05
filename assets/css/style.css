@@ -244,7 +244,7 @@ header .navbar ul li a:hover {
   padding: 1rem 0;
 }
 .home .btn {
-  margin-top: 10rem;
+  margin-top: 1rem;
   position: absolute;
   line-height: 0;
   padding: 1.6rem 3rem;
@@ -274,7 +274,7 @@ header .navbar ul li a:hover {
 /* social icons start */
 .socials {
   position: relative;
-  margin-top: 10rem;
+  margin-top: 1rem;
 }
 .socials .social-icons {
   padding-left: 0;
@@ -326,10 +326,10 @@ header .navbar ul li a:hover {
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .socials {
-    margin-top: 20rem;
+    margin: 2rem 0;
   }
   .home .btn {
-    margin-top: 20rem;
+    margin-top: 2rem;
   }
   .home .image img {
     margin-top: -12rem;
