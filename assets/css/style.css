@@ -854,9 +854,11 @@ header .navbar ul li a:hover {
 .experience .content .desc h3 {
   font-size: 1.5rem;
   font-weight: 600;
+  color: #112c3d;
 }
 .experience .content .desc p {
   font-size: 1.2rem;
+  color: #112c3d;
 }
 /* view all button */
 .morebtn {
