@@ -689,6 +689,7 @@ header .navbar ul li a:hover {
   width: 100%;
   padding-left: 1rem;
   background: #f68c09;
+  color: #112c3d;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
