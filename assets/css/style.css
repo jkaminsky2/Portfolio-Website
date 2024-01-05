@@ -245,7 +245,7 @@ header .navbar ul li a:hover {
 }
 .home .btn {
   margin-top: 1rem;
-  position: absolute;
+  /*position: absolute; */
   line-height: 0;
   padding: 1.6rem 3rem;
   border-radius: 3.9em;
@@ -254,6 +254,8 @@ header .navbar ul li a:hover {
   background: #112c3d;
   box-shadow: 0px 5px 18px rgba(17, 43, 59, 0.6);
   font-family: "Nunito", sans-serif;
+  align-items: center; /* Align vertically center */
+  justify-content: center; /* Align horizontally center */
 }
 .home .btn span {
   font-weight: 700;
