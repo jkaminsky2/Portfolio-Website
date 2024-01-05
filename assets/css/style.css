@@ -1133,6 +1133,7 @@ form .button-area {
 }
 .footer .box-container .box .share {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   padding: 1rem 0;
 }
@@ -1149,6 +1150,9 @@ form .button-area {
   color: #00d9ff;
   background: #09011b;
   border: none;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
 }
 .footer .box-container .box .share a:hover {
   color: #fff;
