@@ -1101,6 +1101,8 @@ form .button-area {
 .footer .box-container .box {
   flex: 1 1 25rem;
   margin: 2.5rem;
+  align-items: center;
+  text-align: center;
 }
 .footer .box-container .box h3 {
   font-size: 4.5rem;
