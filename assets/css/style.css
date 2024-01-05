@@ -328,10 +328,10 @@ header .navbar ul li a:hover {
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .socials {
-    margin-top: 4rem;
+    margin-top: 44px;
   }
   .home .btn {
-    margin-top: 4rem;
+    margin-top: 88px;
   }
   .home .image img {
     margin-top: -12rem;
