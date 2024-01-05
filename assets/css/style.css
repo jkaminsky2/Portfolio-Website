@@ -1147,24 +1147,28 @@ form .button-area {
 .footer .box-container .box .share {
   display: flex;
   justify-content: center;
+  align-items: center; /* Center vertically */
   flex-wrap: wrap;
   padding: 1rem 0;
 }
 
 .footer .box-container .box .share a {
+  display: flex; /* Treat anchor as a flex item */
+  align-items: center; /* Center content vertically within the anchor */
+  justify-content: center; /* Center content horizontally within the anchor */
   font-size: 2rem;
   line-height: 1;
   height: 44px;
   width: 44px;
   padding: 0.5rem;
   text-align: center;
-  margin-right: 10px; /* Match the margin value from the first block */
-  margin-top: 14px;
+  margin-right: 10px;
+  margin-top: 0px;
   transition: all 0.2s linear;
   color: #00d9ff;
   background: #09011b;
   border: none;
-  border-radius: 100%; /* Match the border-radius value from the first block */
+  border-radius: 100%;
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
