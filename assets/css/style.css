@@ -222,7 +222,6 @@ header .navbar ul li a:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 .home .content h2 {
-  margin-bottom: -10px;
   font-size: 5rem;
   font-weight: 800;
   color: #f68c09;
