@@ -196,7 +196,7 @@ header .navbar ul li a:hover {
 }
 .home::before {
   content: "";
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   height: 100%;
