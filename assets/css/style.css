@@ -349,6 +349,9 @@ header .navbar ul li a:hover {
 .about {
   background: rgb(255, 255, 255);
 }
+.about .heading {
+  color: #112c3d;
+}
 .about .row {
   display: flex;
   flex-direction: row;
@@ -538,6 +541,9 @@ header .navbar ul li a:hover {
 .education {
   background: #e5ecfb;
   min-height: 80vh;
+}
+.education .heading {
+  color: #112c3d;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -764,6 +770,9 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience .heading {
+  color: #112c3d;
+}
 .experience .timeline {
   position: relative;
   max-width: 1200px;
