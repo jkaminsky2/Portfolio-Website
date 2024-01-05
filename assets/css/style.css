@@ -1153,10 +1153,10 @@ form .button-area {
 
 .footer .box-container .box .share a {
   font-size: 2rem;
-  line-height: 44px;
+  line-height: 1;
   height: 44px;
   width: 44px;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
   margin-right: 10px; /* Match the margin value from the first block */
   margin-bottom: 14px;
