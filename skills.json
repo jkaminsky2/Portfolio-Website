@@ -85,7 +85,7 @@
     },
     {
         "name": "Keras",
-        "icon": "https://img.icons8.com/material/64/000000/keras.png"
+        "icon": "https://img.icons8.com/fluency/64/artificial-intelligence--v1.png"
     },
     {
         "name": "Sklearn",
@@ -97,7 +97,7 @@
     },
     {
         "name": "Seaborn",
-        "icon": "https://img.icons8.com/color/48/line-chart--v1.png"
+        "icon": "https://img.icons8.com/color/64/line-chart--v1.png"
     },
     {
         "name": "Matplotlib",
