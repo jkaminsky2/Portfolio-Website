@@ -1,51 +1,51 @@
 [
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/python--v1.png"
     },
     {
         "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+        "icon": "https://img.icons8.com/color/64/000000/postgreesql.png"
     },
     {
         "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png"
     },
     {
         "name": "R",
-        "icon": "https://img.icons8.com/fluency/48/r-project.png"
+        "icon": "https://img.icons8.com/fluency/64/r-project.png"
     },
     {
         "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/javascript--v1.png"
     },
     {
         "name": "Excel",
-        "icon": "https://img.icons8.com/color/48/ms-excel.png"
+        "icon": "https://img.icons8.com/color/64/ms-excel.png"
     },
     {
         "name": "Salesforce",
-        "icon": "https://img.icons8.com/color/48/salesforce.png"
+        "icon": "https://img.icons8.com/color/64/salesforce.png"
     },
     {
         "name": "Power BI",
-        "icon": "https://img.icons8.com/color/48/power-bi.png"
+        "icon": "https://img.icons8.com/color/64/power-bi.png"
     },
     {
         "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "https://img.icons8.com/glyph-neue/64/ffffff/github.png"
     },
     {
         "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": "https://img.icons8.com/color/64/000000/git.png"
     },
     {
         "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://img.icons8.com/color/64/000000/html-5--v1.png"
     },
     {
         "name": "Qualtrics",
-        "icon": "https://img.icons8.com/color/48/survey.png"
+        "icon": "https://img.icons8.com/color/64/survey.png"
     },
     {
         "name": "ArcGIS",
@@ -53,7 +53,7 @@
     },
     {
         "name": "Google Earth Engine",
-        "icon": "https://img.icons8.com/color/48/google-earth--v1.png"
+        "icon": "https://img.icons8.com/color/64/google-earth--v1.png"
     },
     {
         "name": "Limsurvey",
@@ -69,23 +69,23 @@
     },
     {
         "name": "Network Analysis",
-        "icon": "https://img.icons8.com/color/48/mind-map.png"
+        "icon": "https://img.icons8.com/color/64/mind-map.png"
     },
     {
         "name": "Pandas",
-        "icon": "https://img.icons8.com/color/48/pandas.png"
+        "icon": "https://img.icons8.com/color/64/pandas.png"
     },
     {
         "name": "Pytorch",
-        "icon": "https://img.icons8.com/fluency/48/pytorch.png"
+        "icon": "https://img.icons8.com/fluency/64/pytorch.png"
     },
     {
         "name": "TensorFlow",
-        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+        "icon": "https://img.icons8.com/color/64/tensorflow.png"
     },
     {
         "name": "Keras",
-        "icon": "https://img.icons8.com/material/24/000000/keras.png"
+        "icon": "https://img.icons8.com/material/64/000000/keras.png"
     },
     {
         "name": "Data Modeling",
