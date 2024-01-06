@@ -68,8 +68,8 @@
         "icon": "https://img.icons8.com/dusk/64/database.png"
     },
     {
-        "name": "Web Scraping",
-        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
+        "name": "Network Analysis",
+        "icon": "https://img.icons8.com/color/64/mind-map.png"
     },
     {
         "name": "Pandas",
@@ -116,7 +116,7 @@
         "icon": "https://img.icons8.com/arcade/64/serial-tasks.png" 
     },
     {
-        "name": "NetworkX",
-        "icon": "https://img.icons8.com/color/64/mind-map.png"
+        "name": "Web Scraping",
+        "icon": "https://img.icons8.com/cotton/64/laptop-coding.png"
     }
 ]
