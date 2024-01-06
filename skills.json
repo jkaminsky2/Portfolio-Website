@@ -72,6 +72,22 @@
         "icon": "https://img.icons8.com/color/48/mind-map.png"
     },
     {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/pandas.png"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/fluency/48/pytorch.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    },
+    {
+        "name": "Keras",
+        "icon": "https://img.icons8.com/material/24/000000/keras.png"
+    },
+    {
         "name": "Data Modeling",
         "icon": "https://img.icons8.com/arcade/64/serial-tasks.png" 
     },
