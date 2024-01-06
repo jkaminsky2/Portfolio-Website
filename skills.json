@@ -88,6 +88,30 @@
         "icon": "https://img.icons8.com/material/64/000000/keras.png"
     },
     {
+        "name": "Sklearn",
+        "icon": "https://img.icons8.com/cotton/64/artificial-intelligence.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/numpy.png"
+    },
+    {
+        "name": "Seaborn",
+        "icon": "https://img.icons8.com/color/48/line-chart--v1.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/dusk/64/pie-chart--v1.png"
+    },
+    {
+        "name": "Plotly",
+        "icon": "https://img.icons8.com/color/64/cosine.png"
+    },
+    {
+        "name": "GeoPandas",
+        "icon": "https://img.icons8.com/color/64/globe-earth.png"
+    },
+    {
         "name": "Data Modeling",
         "icon": "https://img.icons8.com/arcade/64/serial-tasks.png" 
     },
