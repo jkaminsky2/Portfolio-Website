@@ -24,6 +24,10 @@
         "icon": "https://img.icons8.com/color/64/ms-excel.png"
     },
     {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/64/amazon-web-services.png"
+    },
+    {
         "name": "Salesforce",
         "icon": "https://img.icons8.com/color/64/salesforce.png"
     },
