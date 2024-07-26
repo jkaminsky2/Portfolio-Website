@@ -3,10 +3,7 @@
     "name": "Analysis Workbench",
     "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
     "image": "suave_server",
-    "category": "coding",
-    "links": {
-      "view": "https://jupyter-suave.nrp-nautilus.io/"
-    }
+    "category": "coding"
   },
   {
     "name": "Image Generator",
