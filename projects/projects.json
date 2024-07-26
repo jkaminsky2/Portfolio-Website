@@ -3,7 +3,10 @@
     "name": "Analysis Workbench",
     "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
     "image": "suave_server",
-    "category": "coding"
+    "category": "coding",
+     "links": {       
+       "view": "https://github.com/suave-ucsd/jupyter-suave/tree/master"    
+     }
   },
   {
     "name": "Image Generator",
