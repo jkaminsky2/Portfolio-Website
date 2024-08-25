@@ -27,7 +27,7 @@
     }
   },
   {
-    "name": "Electoral College Story-Map Explanation",
+    "name": "Electoral College Story-Map",
     "desc": "Collaborated with colleague to explain the concept of the electoral college for U.S. presidential elections via a Svelte story-map to fellow classmates.",
     "image": "electoral_college",
     "category": "coding",
@@ -78,6 +78,15 @@
     "category": "hypothesis",
     "links": {
       "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
+    }
+  },
+  {
+    "name": "Limesurvey-SuAVE Demo Video",
+    "desc": "Created demo video of how to create a survey in Limesurvey and connect it to SuAVE to visualize and analyze the data; used by 2 UCSD courses.",
+    "image": "demo_video_pic",
+    "category": "documentation",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=X5DktB3B_c8"
     }
   },
   {
