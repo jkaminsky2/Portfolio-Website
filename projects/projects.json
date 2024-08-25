@@ -72,39 +72,12 @@
     }
   },
   {
-    "name": "Food.com Hypothesis Testing",
-    "desc": "Conducted data science hypothesis tests to determine if relationships exist between the data and recipe ratings.",
-    "image": "recipes",
-    "category": "hypothesis",
-    "links": {
-      "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
-    }
-  },
-  {
     "name": "Limesurvey-SuAVE Demo Video",
     "desc": "Created demo video of how to create a survey in Limesurvey and connect it to SuAVE to visualize and analyze the data; used by 2 UCSD courses.",
     "image": "demo_video_pic",
     "category": "documentation",
     "links": {
       "view": "https://www.youtube.com/watch?v=X5DktB3B_c8"
-    }
-  },
-  {
-    "name": "General Documentation",
-    "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
-    "image": "suave_docs",
-    "category": "documentation",
-    "links": {
-      "view": "https://suave-ucsd.github.io/SuAVE-Documentation/getting_started.html"
-    }
-  },
-  {
-    "name": "4 Number Guessing Game Solver",
-    "desc": "Optimally solves the 4-number guessing game.",
-    "image": "4_number",
-    "category": "coding",
-    "links": {
-      "view": "https://github.com/jkaminsky2/personal_projects/blob/main/4_number_guesser.md"
     }
   }
 ]
