@@ -36,12 +36,40 @@
         "icon": "https://img.icons8.com/color/64/power-bi.png"
     },
     {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/64/tableau-software.png"
+    },
+    {
+        "name": "Azure Databricks",
+        "icon": "https://img.icons8.com/fluency/64/azure-1.png"
+    },
+    {
+        "name": "ACL",
+        "icon": "https://img.icons8.com/nolan/64/code--v1.png"
+    },
+    {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/64/000000/git.png"
     },
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/64/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/64/css3.png"
+    },
+    {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/officel/64/react.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/fluency/64/node-js.png"
+    },
+    {
+        "name": "Svelte",
+        "icon": "https://img.icons8.com/doodle/64/svetle.png"
     },
     {
         "name": "Qualtrics",
@@ -72,6 +100,10 @@
         "icon": "https://img.icons8.com/color/64/mind-map.png"
     },
     {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/64/kubernetes.png"
+    },
+    {
         "name": "Pandas",
         "icon": "https://img.icons8.com/color/64/pandas.png"
     },
@@ -94,6 +126,18 @@
     {
         "name": "NumPy",
         "icon": "https://img.icons8.com/color/64/numpy.png"
+    },
+    {
+        "name": "Dask",
+        "icon": "https://img.icons8.com/fluency/64/serial-tasks.png"
+    },
+    {
+        "name": "Apache Spark",
+        "icon": "https://img.icons8.com/external-outline-black-m-oki-orlando/64/external-distributed-web-services-outline-outline-black-m-oki-orlando.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/64/opencv.png"
     },
     {
         "name": "Seaborn",
