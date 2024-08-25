@@ -1,12 +1,21 @@
 [
   {
     "name": "Analysis Workbench",
-    "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including network, image, and statistical analysis.",
+    "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including neural networks and network, image, and statistical analysis.",
     "image": "suave_server",
     "category": "coding",
      "links": {       
        "view": "https://jupyter-suave.nrp-nautilus.io"
      }
+  },
+  {
+    "name": "Sweat-Free Bet Startup",
+    "desc": "Created script that collects data from 20 gambling sites semi-daily to identify arbitrage betting opportunities via AWS S3, Lambda, and Cloudwatch.",
+    "image": "sweat_free_bet",
+    "category": "coding",
+    "links": {
+      "view": ""
+    }
   },
   {
     "name": "Image Generator",
@@ -15,6 +24,15 @@
     "category": "coding",
     "links": {
       "view": "https://suave-ucsd.github.io/SuAVE-Documentation/Bibliographic_Network_Images.html"
+    }
+  },
+  {
+    "name": "Electoral College Story-Map Explanation",
+    "desc": "Collaborated with colleague to explain the concept of the electoral college for U.S. presidential elections via a Svelte story-map to fellow classmates.",
+    "image": "electoral_college",
+    "category": "coding",
+    "links": {
+      "view": "https://bbeat2782.github.io/2020_US_presidential_election/"
     }
   },
   {
@@ -60,6 +78,15 @@
     "category": "hypothesis",
     "links": {
       "view": "https://jkaminsky2.github.io/Recipe-Rating-Predictive-Model-Based-on-Food-Recipes-DataFrame/"
+    }
+  },
+  {
+    "name": "Limesurvey-SuAVE Demo Video",
+    "desc": "Created demo video of how to create a survey in Limesurvey and connect it to SuAVE to visualize and analyze the data; used by 2 UCSD courses.",
+    "image": "demo_video_pic",
+    "category": "documentation",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=X5DktB3B_c8"
     }
   },
   {
