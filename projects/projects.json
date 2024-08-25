@@ -1,7 +1,7 @@
 [
   {
     "name": "Analysis Workbench",
-    "desc": "Collection of analysis notebooks that takes input datasets and carries out 20 different forms of analysis, including neural networks and network, image, and statistical analysis.",
+    "desc": "Collection of analysis notebooks that carries out 20 different forms of analysis, including neural networks and network, image, and statistical analysis.",
     "image": "suave_server",
     "category": "coding",
      "links": {       
