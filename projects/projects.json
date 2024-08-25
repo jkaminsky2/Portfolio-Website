@@ -81,15 +81,6 @@
     }
   },
   {
-    "name": "Limesurvey-SuAVE Demo Video",
-    "desc": "Created demo video of how to create a survey in Limesurvey and connect it to SuAVE to visualize and analyze the data; used by 2 UCSD courses.",
-    "image": "demo_video_pic",
-    "category": "documentation",
-    "links": {
-      "view": "https://www.youtube.com/watch?v=X5DktB3B_c8"
-    }
-  },
-  {
     "name": "General Documentation",
     "desc": "General documentation for use-cases with ArcGIS, Limesurvey, SuAVE, CorpusDB, my analysis workbench, and more.",
     "image": "suave_docs",
